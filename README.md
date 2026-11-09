@@ -1,54 +1,49 @@
+```text
+logan@trismeg:~$ ./boot --user theLoganaut
 
-```                                                 .-.
-                                                    /   \
-                                     _____.....-----|(o) |
-                               _..--'          _..--|  .''
-                             .'  o      _..--''     |  | |
-                            /  _/_..--''            |  | |
-                   ________/  / /                   |  | |
-                  | _  ____\ / /                    |  | |
- _.-----._________|| ||    \\ /                     |  | |
-|=================||=||_____\\                      |__|-'                                ________________________
-|                 ||_||_____//                      (o\ |              __                /\      ______________    \
-|_________________|_________/                        |-\|            _(__)              /  \_____\     UNDER   \____\
- `-------------._______.----'                        /  `.       ___(___)|__)          / /\ \_____\ DEVELOPMENT \__\_\
-    .,.,.,.,.,.,.,.,.,.,.,.,.,                      /     \     (___)\__/__)(_)       / /  \ \     \______________\   \
-   ((O) o o o o ======= o o(O))                 ._.'      /    |__/|___)|___)(__)    / /    \ \________________________\
-    `-.,.,.,.,.,.,.,.,.,.,.,-'                   `.......'    (____)|___|\____(__/  / /      \ \                      \ \
-    
+[  OK  ] Waking up the hardware ...................................... eventually
+[  OK  ] Loading whichever engine this week's idea needs ............. done
+[  OK  ] Mounting 17 repos of side projects .......................... mostly finished
+[  OK  ] Running so many tests that several will break inevitably .... passed???
+[  OK  ] Spawning more agents than one person should manage .......... online
+[ WARN ] Scope creep detected ........................................ ignoring
+[  OK  ] Starting hermes ...
+
+ ██╗  ██╗███████╗██████╗ ███╗   ███╗███████╗███████╗
+ ██║  ██║██╔════╝██╔══██╗████╗ ████║██╔════╝██╔════╝
+ ███████║█████╗  ██████╔╝██╔████╔██║█████╗  ███████╗
+ ██╔══██║██╔══╝  ██╔══██╗██║╚██╔╝██║██╔══╝  ╚════██║
+ ██║  ██║███████╗██║  ██║██║ ╚═╝ ██║███████╗███████║
+ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝
+
+ [██████████████████████████████████████████] 100%
+
+ > BUILDING THINGS THAT SHOULD PROBABLY WORK
+ > SOFTWARE / SYSTEMS / EXPERIMENTS
+ > ENGINEERING THE THINGS I WISH EXISTED
+ > CURIOSITY IS THE DEVELOPMENT ENVIRONMENT
+ > DESIGN. BUILD. BREAK. REPEAT
+
+logan@trismeg:~$ _
 ```
-<h1 align="center"> 🚧 @theLoganaut's Profile is Currently Under Construction 🚧 </h1>
-<p align="center"> Check the Roadmap Below for Details </p>
-      
-<h3 align="center"> 👋, I'm @theLoganaut </h3>
-<p align="center">but upon reading this you may refer to me as Logan! some things about me are;</p>
 
+## Hi, I'm Logan
 
-- 👀 I’m currently interested in front end web development & design.
-- 💞️ I like learning all things software and coming up with amazing ideas (that are way out of scope for me)!
-- 💻 My website is live at <a href="https://logan-duncan.com/">https://logan-duncan.com/<a/> ! Let me know what you think!
-  
-<div align="center">
-"If you have a computer and internet, you have everything you need"
- - a take on Marcus Cicero's Garden & Library
-</div>
+A developer and IT tech in Austin, Texas. I run Trismeg Studios, where I build games and the tools that help me make them, after a few years of React and AWS work and a stint fixing business networks.
 
+## What I'm building
 
-<h3 align="center"> 🚦 ROADMAP 🚦 </h3>
+- **[Collimators Frontlines](https://github.com/theLoganaut/CollimatorsFrontlines)**: a mech deckbuilder in Godot and GDScript, with 112 parts, 13 enemies, 988 automated rule tests and tester builds on Steam.
+- **Hermes**: a desktop app in Tauri, Rust and React that runs several Claude Code agents at once, each on its own git branch, and plans every project through a linked Markdown vault. I use it every day.
+- **[Trismeg Launcher](https://github.com/theLoganaut/trismeg-launcher)** and **[the studio website](https://github.com/theLoganaut/trismeg-website)**: how testers get the games.
 
-```
-                                _________________________   _________________________
-                               |       e-mail me @       | |  >>Logan<<         || -.\
-    ________     _________     |logan.duncan512@gmail.com| |     >>Duncan<<     || |_\\          __           ____
-   |[][][] L\   |______/ L\    |_________________________| |____________________|| -   |    _____|L\___     _/ [] L\__
-   |_,.___,._)  |_,.___,._|    B_,-.___________________,-._|-B_,-._,-.____________|,-._)   (_,._____,._)   (_,.____,.__)
------`'---`'------`'---`'--------`-'-------------------`-'-----`-'-`-'-------------`-'-------`'-----`'-------`'----`'-----
- 
- ______________________         ____________________________         _________________________          __________________
-|                      |       |                            |       |                          |       |                  |
-|   ̶B̶u̶i̶l̶d̶i̶n̶g̶ ̶p̶r̶o̶j̶e̶c̶t̶s̶  | __|\  | ̶B̶u̶i̶l̶d̶ ̶t̶h̶e̶ ̶s̶e̶c̶o̶n̶d̶ ̶i̶t̶e̶r̶a̶t̶i̶o̶n̶ | __|\  |Apply for oppurtunties of | __|\  | Grow my skillset |
-|    ̶i̶n̶ ̶R̶e̶a̶c̶t̶J̶s̶ ̶t̶h̶a̶t̶   ||__   >|  ̶o̶f̶ ̶m̶y̶ ̶w̶e̶b̶s̶i̶t̶e̶ ̶a̶n̶d̶ ̶u̶p̶d̶a̶t̶e̶  ||__   >| growth while continuing  ||__   >| into a fullstack |
-| s̶h̶o̶w̶c̶a̶s̶e̶ ̶m̶y̶ ̶l̶e̶a̶r̶n̶i̶n̶g̶.|   |/  |    ̶m̶y̶ ̶s̶o̶c̶i̶a̶l̶ ̶f̶o̶o̶t̶p̶r̶i̶n̶t̶.̶    |   |/  |to build passion projects.|   |/  |data analytics dev|
-|______________________|       |____________________________|       |__________________________|       |__________________|
-  
-```
+## What I work with
+
+**Games:** Godot, GDScript, Unity, C#, Steamworks  
+**Web:** TypeScript, React, Next.js, Python, AWS  
+**Systems:** Rust, Tauri, Windows and Linux, networking, CompTIA A+  
+**AI:** Claude Code, several agents at a time
+
+## Find me
+
+[logan-duncan.com](https://logan-duncan.com) · logan.duncan512@gmail.com
